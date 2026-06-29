@@ -1,0 +1,404 @@
+canonical_identifier: bkk:krp/KR3ep025/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ep025/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 曹仁伯醫案論
+  identifiers:
+    krp: KR3ep025
+  tags:
+    kr-categories: KR3ep
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep025.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep025_000-jc.yaml, hash: 'sha256:5a64c52fca73d1348448a5a7f6bcdde67e5911af35c45107b804f6745171dca0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep025_000-jc.markers.yaml, hash: 'sha256:c349c1a2075cabad2035719c2aa22aa52b5972e9ea6563886ea902d23263a96d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 335
+  label: 藩署蕭四爺治驗丸方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d3.h1s1
+    span:
+    - body
+    - 335
+    - 437
+  label: 衛道觀前頭鳴右盛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d4.h1s1
+    span:
+    - body
+    - 437
+    - 615
+  label: 德清某
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d5.h1s1
+    span:
+    - body
+    - 615
+    - 769
+  label: 嘉興吳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d6.h1s1
+    span:
+    - body
+    - 769
+    - 1436
+  label: 安徽程
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d7.h1s1
+    span:
+    - body
+    - 1436
+    - 1984
+  label: 杭州汪
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d8.h1s1
+    span:
+    - body
+    - 1984
+    - 2221
+  label: 嘉興張
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d9.h1s1
+    span:
+    - body
+    - 2221
+    - 2385
+  label: 薛家灣郭
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d10.h1s1
+    span:
+    - body
+    - 2385
+    - 2565
+  label: 薛家灣郭復診方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d11.h1s1
+    span:
+    - body
+    - 2565
+    - 2937
+  label: 崑山陶
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d12.h1s1
+    span:
+    - body
+    - 2937
+    - 3049
+  label: 又轉方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d13.h1s1
+    span:
+    - body
+    - 3049
+    - 3330
+  label: 又
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d14.h1s1
+    span:
+    - body
+    - 3330
+    - 3527
+  label: 紹興邵
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d15.h1s1
+    span:
+    - body
+    - 3527
+    - 3962
+  label: 西匯胡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d16.h1s1
+    span:
+    - body
+    - 3962
+    - 4236
+  label: 松江朱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d17.h1s1
+    span:
+    - body
+    - 4236
+    - 4946
+  label: 又
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d18.h1s1
+    span:
+    - body
+    - 4946
+    - 5370
+  label: 甘露華
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d19.h1s1
+    span:
+    - body
+    - 5370
+    - 5862
+  label: 朱家角邵
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d20.h1s1
+    span:
+    - body
+    - 5862
+    - 5897
+  label: 復診
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d21.h1s1
+    span:
+    - body
+    - 5897
+    - 6024
+  label: 又方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d22.h1s1
+    span:
+    - body
+    - 6024
+    - 6197
+  label: 未錄住址姓氏
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d23.h1s1
+    span:
+    - body
+    - 6197
+    - 6610
+  label: 蘆墟東茜墩陳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d24.h1s1
+    span:
+    - body
+    - 6610
+    - 6933
+  label: 又
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d25.h1s1
+    span:
+    - body
+    - 6933
+    - 7086
+  label: 又未錄住址姓氏
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d26.h1s1
+    span:
+    - body
+    - 7086
+    - 7218
+  label: 次診
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d27.h1s1
+    span:
+    - body
+    - 7218
+    - 7436
+  label: 再次診
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d28.h1s1
+    span:
+    - body
+    - 7436
+    - 7748
+  label: 唯亭陸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d29.h1s1
+    span:
+    - body
+    - 7748
+    - 7995
+  label: 平望陸
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d30.h1s1
+    span:
+    - body
+    - 7995
+    - 8210
+  label: 崑山陳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d31.h1s1
+    span:
+    - body
+    - 8210
+    - 8388
+  label: 又
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d32.h1s1
+    span:
+    - body
+    - 8388
+    - 8534
+  label: 又
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d33.h1s1
+    span:
+    - body
+    - 8534
+    - 8756
+  label: 又
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d34.h1s1
+    span:
+    - body
+    - 8756
+    - 8926
+  label: 梨里王
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d35.h1s1
+    span:
+    - body
+    - 8926
+    - 9069
+  label: 又診
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d36.h1s1
+    span:
+    - body
+    - 9069
+    - 9208
+  label: 常熟俞
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d37.h1s1
+    span:
+    - body
+    - 9208
+    - 10149
+  label: 杭州鍾徐若泉令親姚名琨先生字來
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d38.h1s1
+    span:
+    - body
+    - 10149
+    - 10360
+  label: 洞庭山徐嚴少宰妹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep025_jc_000-d39.h1s1
+    span:
+    - body
+    - 10360
+    - 11106
+  label: 嘉慶乙亥元和時疫論
+  type: section
+  level: 1
+hash: sha256:c3da08faadccf744afb34fbf52f3a432378986ace1ffcb8ed945cb81808d477f
