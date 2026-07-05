@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep025_000.yaml, hash: 'sha256:7f2d8d1a8620067a9fbfe54eca3e29c9aef7c42456fac74677dfbeb3b064f0db'}
+  - {seq: 0, filename: KR3ep025_000.yaml, hash: 'sha256:5a64c52fca73d1348448a5a7f6bcdde67e5911af35c45107b804f6745171dca0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep025_000.markers.yaml, hash: 'sha256:0d36f087b34bfc70b0ce207f0da2d5993d95d7549f8caeb619f63fb20569139d'}
+  - {seq: 0, role: markers, filename: assets/KR3ep025_000.markers.yaml, hash: 'sha256:587c248d04ac16627c8d84e62ea86023725849f710b83ad2797dfd55a95a00ed'}
 table_of_contents:
 - ref:
     seq: 0
@@ -401,7 +401,4 @@ table_of_contents:
   label: 嘉慶乙亥元和時疫論
   type: section
   level: 1
-hash: sha256:14a21b4bcc3cf2630c66889873764c077874948151240f8148db291308f28d70
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:fec429f3e1bae2b4db8f88c641f858914dfce2d7259ff98bd1657b5fdd5b851e
