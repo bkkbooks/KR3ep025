@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ep025/v1
 canonical_location: https://kanripo.org/bkk/KR3ep025/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 曹仁伯醫案論
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep025_000.yaml, hash: 'sha256:5a64c52fca73d1348448a5a7f6bcdde67e5911af35c45107b804f6745171dca0'}
+  - {seq: 0, filename: KR3ep025_000.yaml, hash: 'sha256:b6c73a2ea7d7e9946f677bc651022aa594eaa4a803efdd09454c4ae2ffea8809'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep025_000.markers.yaml, hash: 'sha256:587c248d04ac16627c8d84e62ea86023725849f710b83ad2797dfd55a95a00ed'}
+  - {seq: 0, role: markers, filename: assets/KR3ep025_000.markers.yaml, hash: 'sha256:8c9cc51d472841e18f3c84a0f1b6bde00bcb854372620f5f25840fbf78b40ffe'}
 table_of_contents:
 - ref:
     seq: 0
@@ -401,4 +401,7 @@ table_of_contents:
   label: 嘉慶乙亥元和時疫論
   type: section
   level: 1
-hash: sha256:fec429f3e1bae2b4db8f88c641f858914dfce2d7259ff98bd1657b5fdd5b851e
+hash: sha256:2b0de4822d79b880a1c6fd1e2949814cef5716ac687ee0105d9bb14a6531f02e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
