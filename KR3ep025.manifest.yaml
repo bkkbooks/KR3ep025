@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ep025_000.yaml, hash: 'sha256:b6c73a2ea7d7e9946f677bc651022aa594eaa4a803efdd09454c4ae2ffea8809'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep025_000.markers.yaml, hash: 'sha256:8c9cc51d472841e18f3c84a0f1b6bde00bcb854372620f5f25840fbf78b40ffe'}
+  - {seq: 0, role: markers, filename: assets/KR3ep025_000.markers.yaml, hash: 'sha256:2ffe2d4066352c8f3c0e192d7ebc549e1399ba10501d929e2dba6abfb56983c4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -401,7 +401,7 @@ table_of_contents:
   label: 嘉慶乙亥元和時疫論
   type: section
   level: 1
-hash: sha256:2b0de4822d79b880a1c6fd1e2949814cef5716ac687ee0105d9bb14a6531f02e
+hash: sha256:1de2aaf76ea14673b9e9e3b871da8f627b91eafc5711f36b4996f26bf4b8808b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

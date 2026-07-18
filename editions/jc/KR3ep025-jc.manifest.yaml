@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ep025_000-jc.yaml, hash: 'sha256:5a64c52fca73d1348448a5a7f6bcdde67e5911af35c45107b804f6745171dca0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep025_000-jc.markers.yaml, hash: 'sha256:c349c1a2075cabad2035719c2aa22aa52b5972e9ea6563886ea902d23263a96d'}
+  - {seq: 0, role: markers, filename: assets/KR3ep025_000-jc.markers.yaml, hash: 'sha256:5e759651415bc24fb31261bdd7573f24d4d62bda1c17eaf904b2889e3c2cced4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -401,4 +401,4 @@ table_of_contents:
   label: 嘉慶乙亥元和時疫論
   type: section
   level: 1
-hash: sha256:c3da08faadccf744afb34fbf52f3a432378986ace1ffcb8ed945cb81808d477f
+hash: sha256:231a66db51f474cc612330dd3866eb9bf180fcb84c110a65d90930641d5ef94b
